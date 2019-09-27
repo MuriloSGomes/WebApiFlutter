@@ -1,0 +1,249 @@
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\WebApiOficial.dll.config
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\WebApiOficial.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\WebApiOficial.pdb
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\csc.exe
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\csc.exe.config
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\csc.rsp
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\csi.exe
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\csi.exe.config
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\csi.rsp
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.AppContext.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Console.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.Compression.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Claims.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.ValueTuple.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\vbc.exe
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\vbc.exe.config
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\vbc.rsp
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\VBCSCompiler.exe
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\Antlr3.Runtime.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\Newtonsoft.Json.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Net.Http.Formatting.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Helpers.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Http.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Http.WebHost.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Mvc.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Optimization.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Razor.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Razor.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\WebGrease.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\Newtonsoft.Json.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Net.Http.Formatting.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Helpers.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Http.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Http.WebHost.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Mvc.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Optimization.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.Razor.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Razor.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\Antlr3.Runtime.pdb
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csproj.CopyComplete
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.pdb
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Escolar Manager\source\repos\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csprojAssemblyReference.cache
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\WebApiOficial.dll.config
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\WebApiOficial.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\WebApiOficial.pdb
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\csc.exe
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\csc.exe.config
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\csc.rsp
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\csi.exe
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\csi.exe.config
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\csi.rsp
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.Managed.Core.targets
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.AppContext.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Collections.Immutable.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Console.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.Compression.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.FileSystem.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.Pipes.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Reflection.Metadata.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.AccessControl.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Claims.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Principal.Windows.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.ValueTuple.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.XmlDocument.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.XPath.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\vbc.exe
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\vbc.exe.config
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\vbc.rsp
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\VBCSCompiler.exe
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\roslyn\VBCSCompiler.exe.config
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\Antlr3.Runtime.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\Microsoft.Web.Infrastructure.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\Newtonsoft.Json.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Net.Http.Formatting.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Helpers.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Http.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Http.WebHost.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Mvc.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Optimization.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Razor.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Deployment.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Razor.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\WebGrease.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\Newtonsoft.Json.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Net.Http.Formatting.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Helpers.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Http.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Http.WebHost.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Mvc.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Optimization.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.Razor.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Deployment.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Razor.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\Antlr3.Runtime.pdb
+D:\muriloFlutter\WebApiOficial\WebApiOficial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\muriloFlutter\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csprojAssemblyReference.cache
+D:\muriloFlutter\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csproj.CoreCompileInputs.cache
+D:\muriloFlutter\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csproj.CopyComplete
+D:\muriloFlutter\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.dll
+D:\muriloFlutter\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.pdb
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\WebApiOficial.dll.config
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\WebApiOficial.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\WebApiOficial.pdb
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\csc.exe
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\csc.exe.config
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\csc.rsp
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\csi.exe
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\csi.exe.config
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\csi.rsp
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.AppContext.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Collections.Immutable.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Console.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.Compression.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.FileSystem.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.IO.Pipes.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Reflection.Metadata.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.AccessControl.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Claims.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.ValueTuple.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.XPath.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\vbc.exe
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\vbc.exe.config
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\vbc.rsp
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\VBCSCompiler.exe
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\roslyn\VBCSCompiler.exe.config
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\Antlr3.Runtime.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\Microsoft.Web.Infrastructure.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\Newtonsoft.Json.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Net.Http.Formatting.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Helpers.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Http.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Http.WebHost.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Mvc.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Optimization.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Razor.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Deployment.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Razor.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\WebGrease.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\Newtonsoft.Json.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Net.Http.Formatting.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Helpers.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Http.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Http.WebHost.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Mvc.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Optimization.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.Razor.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Deployment.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\System.Web.WebPages.Razor.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\Antlr3.Runtime.pdb
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csprojAssemblyReference.cache
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csproj.CoreCompileInputs.cache
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csproj.CopyComplete
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.dll
+D:\BackupTreinamento\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.pdb
