@@ -10,16 +10,12 @@ namespace WebApiOficial
         public static void Register(HttpConfiguration config)
         {
             // Web API configuration and services
-            config.Formatters.Clear();
-
-            config.Formatters.Add(new System.Net.Http.Formatting.JsonMediaTypeFormatter());
-
-            // Web API routes
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
-                routeTemplate: "{controller}/{action}"
+                routeTemplate: "{controller}/{id}",
+                defaults: new { id = RouteParameter.Optional }
             );
         }
     }
