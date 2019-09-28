@@ -41,13 +41,13 @@ namespace WebApiOficial.Controllers
         }
 
 
-        private DTOParametrosParametrosLogin ObtenhaParametrosLogin(string token)
+        private DTOParametrosLogin ObtenhaParametrosLogin(string token)
         {
             var tokenLoginESenha = token.Split('|');
             var login = tokenLoginESenha[0];
             var senha = tokenLoginESenha[1];
 
-            return new DTOParametrosParametrosLogin()
+            return new DTOParametrosLogin()
             {
                 Login = login,
                 Senha = senha

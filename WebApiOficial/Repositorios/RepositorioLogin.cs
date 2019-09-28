@@ -11,16 +11,9 @@ namespace WebApiOficial.Repositorios
 {
     public class RepositorioLogin
     {
-        public bool EhValido(DTOParametrosParametrosLogin parametros)
+        public bool EhValido(DTOParametrosLogin parametros)
         {
-            var sb = new FbConnectionStringBuilder()
-            {
-                Database = @"D:\dbSmartie\SMARTIE.FDB",
-                DataSource = "localhost",
-                UserID = "SYSDBA",
-                Password = "masterkey",
-                Port = 3053
-            };
+            var sb = Conexao.CrieConexao();
 
             using (FbConnection cn = new FbConnection(sb.ConnectionString))
             {
@@ -38,7 +31,6 @@ namespace WebApiOficial.Repositorios
                 }
             }
         }
-
         public void AltereSenha(string login, string senhaNova, string senhaAntiga)
         {
             var conexao = Conexao.CrieConexao();
@@ -49,5 +41,16 @@ namespace WebApiOficial.Repositorios
                 cmd.ExecuteNonQuery();
             }
         } 
+
+        public void InsiraLogin(string login, string senha)
+        {
+            var conexao = Conexao.CrieConexao();
+
+            using(var cmd = conexao.CreateCommand())
+            {
+                cmd.CommandText = $@"INSERT INTO USUARIO(EMAIL, SENHA) VALUES({login}, {senha})";
+                cmd.ExecuteNonQuery();
+            }
+        }
     }
 }

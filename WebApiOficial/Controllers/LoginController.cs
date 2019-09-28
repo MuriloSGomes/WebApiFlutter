@@ -14,7 +14,7 @@ namespace WebApiOficial.Controllers
     {
         [HttpGet]
         [HttpPost]
-        public DTORetornoLogin ValideLogin([FromBody] DTOParametrosParametrosLogin parametros)
+        public DTORetornoLogin ValideLogin([FromBody] DTOParametrosLogin parametros)
         {
             var repositorioUsuario = new RepositorioLogin();
 
@@ -34,6 +34,22 @@ namespace WebApiOficial.Controllers
             {
                 Codigo = 1,
                 Mensagem = "Falha no login.."
+            };
+        }
+
+        public DTORetornoLogin RegistreLogin([FromBody] DTOParametrosLogin parametros)
+        {
+            var repositorioUsuario = new RepositorioLogin();
+
+            repositorioUsuario.InsiraLogin(parametros.Login, parametros.Senha);
+
+            var token = $"{parametros.Login}|{parametros.Senha}";
+
+            return new DTORetornoLogin()
+            {
+                Codigo = 0,
+                Mensagem = "Login inserido com sucesso",
+                Token = token
             };
         }
 
@@ -63,17 +79,21 @@ namespace WebApiOficial.Controllers
             return retorno;
         }
 
-        private DTOParametrosParametrosLogin ObtenhaParametrosLogin(string token)
+        private DTOParametrosLogin ObtenhaParametrosLogin(string token)
         {
             var tokenLoginESenha = token.Split('|');
             var login = tokenLoginESenha[0];
             var senha = tokenLoginESenha[1];
 
-            return new DTOParametrosParametrosLogin()
+            return new DTOParametrosLogin()
             {
                 Login = login,
                 Senha = senha
             };
         }
+
+       
+
+
     }
 }

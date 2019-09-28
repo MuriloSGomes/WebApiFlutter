@@ -13,10 +13,11 @@ namespace WebApiOficial.Utils
 
             var sb = new FbConnectionStringBuilder()
             {
-                Database = @"D:\CelsoGomesPC\BDCOLEGIOVISAO1.FDB",
+                Database = @"D:\dbSmartie\SMARTIE.FDB",
                 DataSource = "localhost",
                 UserID = "SYSDBA",
-                Password = "masterkey"
+                Password = "masterkey",
+                Port = 3053
             };
 
             var conexao = new FbConnection(sb.ToString());

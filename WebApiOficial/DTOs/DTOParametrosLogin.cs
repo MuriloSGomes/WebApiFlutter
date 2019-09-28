@@ -5,7 +5,7 @@ using System.Web;
 
 namespace WebApiOficial.Dominios
 {
-    public class DTOParametrosParametrosLogin
+    public class DTOParametrosLogin
     {
         public string Login { get; set; }
         public string Senha { get; set; }
