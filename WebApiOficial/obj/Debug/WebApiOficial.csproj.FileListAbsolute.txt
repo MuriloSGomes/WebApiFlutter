@@ -247,7 +247,6 @@ D:\BackupTreinamento\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csproj.
 D:\BackupTreinamento\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csproj.CopyComplete
 D:\BackupTreinamento\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.dll
 D:\BackupTreinamento\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.pdb
-D:\Nova pasta (2)\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csprojAssemblyReference.cache
 D:\Nova pasta (2)\WebApiOficial\WebApiOficial\obj\Debug\WebApiOficial.csproj.CoreCompileInputs.cache
 D:\Nova pasta (2)\WebApiOficial\WebApiOficial\bin\WebApiOficial.dll.config
 D:\Nova pasta (2)\WebApiOficial\WebApiOficial\bin\WebApiOficial.dll

@@ -36,7 +36,7 @@ namespace WebApiOficial.Controllers
                 Mensagem = "Falha no login.."
             };
         }
-
+        [HttpPost]
         public DTORetornoLogin RegistreLogin([FromBody] DTOParametrosLogin parametros)
         {
             var repositorioUsuario = new RepositorioLogin();
